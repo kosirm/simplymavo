@@ -1,0 +1,35 @@
+{
+	"ArticleHeader": "Articles",
+	"article": [
+		{
+			"ArticleImage": "http://lorempixel.com/output/technics-q-c-640-480-4.jpg",
+			"ArticleTitle": "\n                                Tech Giant Invests Huge Money to Build a Computer Out of Science Fiction\n                            ",
+			"ArticleText": "The tech giant says it is ready to begin planning a quantum computer, a powerful cpu machine that relies on subatomic pArticleicles instead of transistors. A to još nije sve...",
+			"ArticleAuthor": "\n                                By Robin Darnell\n                            "
+		},
+		{
+			"ArticleImage": "http://lorempixel.com/output/technics-q-c-640-480-5.jpg",
+			"ArticleTitle": "What if I don't want to use NetlifyCMS",
+			"ArticleText": "This tool is semantic and sooooooo cool, that I need to congratulate Lea Verou for her work. Really impressive.\nI need to use this, it best web tool ever. This is future",
+			"ArticleAuthor": "Milan Košir"
+		},
+		{
+			"ArticleImage": "http://lorempixel.com/output/technics-q-c-640-480-1.jpg",
+			"ArticleTitle": "Tell me this isn't cool",
+			"ArticleText": "Ovo je tako semantično pravilno i jednostavno, da me razveseljava sama pomisao, šta sve se može napraviti. Svakakva aplikacija, savakakav UI. Sky is the limit. Stvarno.",
+			"ArticleAuthor": "Milan"
+		},
+		{
+			"ArticleImage": "http://lorempixel.com/output/technics-q-c-640-480-9.jpg",
+			"ArticleTitle": "Logical Next Step - Templates",
+			"ArticleText": "Ovo treba napraviti, jer ako neču ja, če netko drugi, definitivno... A tržište je ogromno i jako konkurentno.",
+			"ArticleAuthor": "Milan"
+		},
+		{
+			"ArticleImage": "http://lorempixel.com/output/nightlife-q-c-640-480-6.jpg",
+			"ArticleTitle": "Hello, Github!",
+			"ArticleText": "Po malo ga čak počinjem voljeti, obzirom na to, koliko je koristan i nenametljiv. Mora da i drugi tako :)",
+			"ArticleAuthor": "Milan"
+		}
+	]
+}
