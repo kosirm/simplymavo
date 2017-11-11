@@ -24,6 +24,12 @@
 			"ArticleTitle": "Logical Next Step - Templates",
 			"ArticleText": "Ovo treba napraviti, jer ako neču ja, če netko drugi, definitivno... A tržište je ogromno i jako konkurentno.",
 			"ArticleAuthor": "Milan"
+		},
+		{
+			"ArticleImage": "http://lorempixel.com/output/cats-q-c-640-480-1.jpg",
+			"ArticleTitle": "Choosing Hugo Theme",
+			"ArticleText": "Ananke looks good, it has tachyons implemented, etc. Da li mi tema uopče treba? Zar nije to za ljude, koji ne znaju napravit temu? Trebam još razmisliti o tome",
+			"ArticleAuthor": "By Milan Košir"
 		}
 	]
 }
