@@ -3,7 +3,7 @@
 	"article": [
 		{
 			"ArticleImage": "http://lorempixel.com/output/technics-q-c-640-480-4.jpg",
-			"ArticleTitle": "This is mavo presentation",
+			"ArticleTitle": "\n                                Tech Giant Invests Huge Money to Build a Computer Out of Science Fiction\n                            ",
 			"ArticleText": "The tech giant says it is ready to begin planning a quantum computer, a powerful cpu machine that relies on subatomic pArticleicles instead of transistors.",
 			"ArticleAuthor": "\n                                By Robin Darnell\n                            "
 		},
@@ -23,6 +23,12 @@
 			"ArticleImage": "http://lorempixel.com/output/technics-q-c-640-480-9.jpg",
 			"ArticleTitle": "Next Step - Templates",
 			"ArticleText": "Vivamus suscipit tortor eget felis porttitor volutpat. Cras ultricies ligula sed magna dictum porta.\n\nDonec rutrum congue leo eget malesuada. Nulla porttitor accumsan tincidunt.",
+			"ArticleAuthor": "Milan"
+		},
+		{
+			"ArticleImage": "http://lorempixel.com/output/animals-q-c-640-480-9.jpg",
+			"ArticleTitle": "Mavo -> GIT -> HUGO -> Netlify",
+			"ArticleText": "Looks like nice workflow.",
 			"ArticleAuthor": "Milan"
 		}
 	]
