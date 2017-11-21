@@ -3,21 +3,15 @@
 	"article": [
 		{
 			"ArticleImage": "http://lorempixel.com/output/technics-q-c-640-480-4.jpg",
-			"ArticleTitle": "Mavo Presentation",
+			"ArticleTitle": "True Innovation",
 			"ArticleText": "The tech giant says it is ready to begin planning a quantum computer, a powerful cpu machine that relies on subatomic pArticleicles instead of transistors.",
-			"ArticleAuthor": "Milan"
-		},
-		{
-			"ArticleImage": "http://lorempixel.com/output/cats-q-c-640-480-10.jpg",
-			"ArticleTitle": "Between",
-			"ArticleText": "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Pellentesque in ipsum id orci porta dapibus.\n\nPraesent sapien massa, convallis a pellentesque nec, egestas non nisi. Sed porttitor lectus nibh.",
-			"ArticleAuthor": "Milan"
+			"ArticleAuthor": "\n                                By Robin Darnell\n                            "
 		},
 		{
 			"ArticleImage": "http://lorempixel.com/output/technics-q-c-640-480-5.jpg",
 			"ArticleTitle": "What if I don't want to use your CMS",
 			"ArticleText": "This script is very semantic and cool, I need to congratulate Lea Verou for her work. Donec sollicitudin molestie malesuada. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.",
-			"ArticleAuthor": "Milan Košir"
+			"ArticleAuthor": "Milan KoÅ¡ir"
 		},
 		{
 			"ArticleImage": "http://lorempixel.com/output/technics-q-c-640-480-1.jpg",
@@ -29,12 +23,6 @@
 			"ArticleImage": "http://lorempixel.com/output/technics-q-c-640-480-9.jpg",
 			"ArticleTitle": "Next Step - Templates",
 			"ArticleText": "Vivamus suscipit tortor eget felis porttitor volutpat. Cras ultricies ligula sed magna dictum porta.\n\nDonec rutrum congue leo eget malesuada. Nulla porttitor accumsan tincidunt.",
-			"ArticleAuthor": "Milan"
-		},
-		{
-			"ArticleImage": "http://lorempixel.com/output/animals-q-c-640-480-9.jpg",
-			"ArticleTitle": "Mavo > GIT > HUGO > Netlify",
-			"ArticleText": "Looks like nice workflow.",
 			"ArticleAuthor": "Milan"
 		}
 	]
